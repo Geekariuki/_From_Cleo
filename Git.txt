@@ -1,0 +1,11 @@
+//to create new branch
+git branch your brachname
+
+//to see alll branches
+git branch
+
+//to checkout to your branch
+git checkout yourbranchname
+
+//shortcut to add . and commit
+git commit -am "Commit messages"
